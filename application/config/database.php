@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> 'mysql:host=localhost; dbname=project; charset=utf8;',
 	'hostname' => 'localhost',
-	'username' => 'admin@localhost',
-	'password' => '64211488s',
+	'username' => 'admin',
+	'password' => 'a123456',
 	'database' => '',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
